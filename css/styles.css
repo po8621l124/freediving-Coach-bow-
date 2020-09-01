@@ -598,7 +598,7 @@ pre code {
   .imghide {
     display: none;
   }
-  .rwdwidth{
+  .rwdwidth{ 
     width: 100% !important;
   }
   .font-type{

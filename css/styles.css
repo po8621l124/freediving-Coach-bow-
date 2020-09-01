@@ -596,7 +596,7 @@ pre code {
 
 @media (max-width: 992px) {
   .imghide {
-    display: grid;
+    display: none;
   }
   .rwdwidth{
     width: 100% !important;
